@@ -34,3 +34,8 @@ Data retrieve from Udemy Power BI Course  Contains data with hotel booking relat
 1 bar chart shows average of room rate by room type  
 1 mapped chart with total booking by country
 1 matrix table showing booking status summary
+
+## 3. HR Analytics Dashboard
+![image](https://github.com/user-attachments/assets/c9e33e6d-8686-4670-9e36-7bfb42e013fb) 
+
+### Dashboard Breakdown:
