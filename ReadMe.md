@@ -39,3 +39,10 @@ Data retrieve from Udemy Power BI Course  Contains data with hotel booking relat
 ![image](https://github.com/user-attachments/assets/c9e33e6d-8686-4670-9e36-7bfb42e013fb) 
 
 ### Dashboard Breakdown:
+
+
+## 4. Streaming platform Analysis
+![image](https://github.com/user-attachments/assets/179ed3d4-8881-4fb4-b562-7f773d99652a)
+
+### Dashboard Breakdown:
+
